@@ -1,0 +1,25 @@
+body {color:#000000;background:url(images/mainbg.jpg) #999999;background-attachment:fixed;font-family:verdana, tahoma, helvetica, serif;font-size:13px;}
+a {color:#1f003f;text-decoration:underline;font-style:italic;}
+a:hover {color:#000000;text-decoration:none;font-style:italic;}
+img {border:none;}
+a.comment {color:#aaaaaa;text-decoration:none;font-style:normal;}
+a.comment:hover {color:#333333;text-decoration:none;font-style:normal;}
+a.index {color:#2f0c4f;text-decoration:none;font-style:normal;}
+a.index:hover {color:#000000;text-decoration:none;font-style:normal;}
+.index {color:#ffff00;}
+input {border:1px solid #000000;color:#000000;background:#666666;font-size:13px;}
+input:focus {border:1px solid #000000;color:#000000;background:#888888;font-size:13px;}
+textarea {border:1px solid #000000;color:#000000;background:#666666;font-size:14px;}
+textarea:focus {border:1px solid #000000;color:#000000;background:#888888;font-size:14px;}
+.comauthor {color:#ffff00;text-decoration:none;font-style:italic;}
+.item {width:500px;background:#777777}
+.header {background:#aa0000;}
+.text {padding: 4px;text-align:justify;}
+.comment {background:#aa0000;text-align:right;}
+.nav {width:150px;padding:20px;text-align:right;}
+.sec {position:relative;right:-5px;top:-10px;text-align:right;width:auto;padding:4px;clear:both;float:right;border:0px;background:#aa0000;color:#000000;font-weight:bold;}
+.links {padding:4px;background:#777777;text-align:right;}
+input.src {border-left:0px;border-right:0px;border-top:0px;border-bottom:1px dashed #000000;color:#000000;background:#777777;font-size:13px;}
+.user {border:0px;padding:24px;position:relative;right:-5px;top:-10px;text-align:right;width:auto;clear:both;float:right;background:transparent;color:#aa0000;font-weight:bold;font-size:13px;}
+a.entry {color:#111111;font-weight:bold;font-style:normal;text-decoration:none;}
+a.entry:hover {color:#cccccc;font-weight:bold;font-style:normal;}

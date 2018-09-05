@@ -1,0 +1,14 @@
+body {background:url(images/mainbg.gif) #000000;color:#00355D;font-family:verdana, tahoma serif;font-size:10px;font-weight:bold;}
+a {color:#00355D;text-decoration:none;font-size:10px;}
+a:hover {color:#ffffff;text-decoration:none;}
+a.sub {color:#ffffff;text-decoration:none;}
+a.sub:hover {color:#00355D;text-decoration:none;}
+img {border:none;}
+.cats {color:#00355D;text-decoration:none;font-size:10px;}
+.cats:hover {color:#00153D;text-decoration:none;font-size:10px;}
+.subcats {color:#ffffff;text-decoration:none;font-size:10px;}
+.subcats:hover {color:#dddddd;text-decoration:none;font-size:10px;}
+.newsold {position:absolute;bottom:1px;right:2px;width:280px;height:20px;color:#ffffff;font-weight:bold;font-size:14px;}
+.news {position:absolute;bottom:1px;right:2px;width:480px;height:20px;color:#ffffff;font-weight:bold;font-size:14px;}
+a.poster {color:#00ffff;text-decoration:none;font-size:13px;font-weight:bold;}
+a.poster:hover {color:#ffffff;text-decoration:none;font-style:italic;font-size:13px;font-weight:bold;}

@@ -1,0 +1,19 @@
+body {font-size:11px;background-color:#999999;color:#00355D;font-family:verdana, tahoma, helvetica, serif;scrollbar-3dlight-color:#777777;scrollbar-arrow-color:#999999;scrollbar-darkshadow-color:#777777;scrollbar-face-color:#777777;scrollbar-highlight-color:#777777;scrollbar-shadow-color:#999999;scrollbar-track-color:#999999;}
+a {color:#00355D;text-decoration:underline;}
+a:hover {color:#ffffff;text-decoration:none;}
+img {border:none;}
+img.txt	{float:right;margin-left:10px;}
+.txt {text-align:justify;font-size:12px;}
+.size {font-size:9.5px;}
+table {font-size:11px;}
+input {border: 1px solid #000000;color:#00355D;background:#777777;font-size:11px;}
+input:focus {border: 1px solid #000000;color:#00355D;background:#999999;font-size:11px;}
+textarea {border: 1px solid #000000;color:#00355D;background:#777777;font-size:11px;}
+textarea:focus {border: 1px solid #000000;color:#00355D;background:#999999;font-size:11px;}
+.label {color:#ffffff;font-size:11px;}
+a.mail {color:#ffffff;font-size:11px;text-align:center;text-decoration:none;}
+a.mail:hover {color:#00355D;font-size:11px;text-align:center;text-decoration:none;}
+ul {list-style:square;}
+li {padding-top:15px;}
+a.links {color:#ffffff;font-size:11px;text-align:center;text-decoration:none;}
+a.links:hover {color:#00355D;font-size:11px;text-align:center;text-decoration:none;}
